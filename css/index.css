@@ -169,6 +169,12 @@ li {
     width: 80%;
 }
 
+.project .part .subpart {
+    padding-left: 10%;
+    padding-right: 14%;
+    padding-top: 30px;
+}
+
 
 /* contact */
 .contact {
