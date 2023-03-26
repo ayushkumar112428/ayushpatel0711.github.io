@@ -150,7 +150,24 @@ li {
 }
 
 /* projects */
+.project {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-radius: 50px;
+    min-height: 450px;
+}
 
+.project .part {
+    height: 500px;
+    margin-right: 12%;
+    margin-left: 12%;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: #e6e5e9;
+    box-shadow: 0px 0px 7px black;
+    color: black;
+    width: 80%;
+}
 
 
 /* contact */
